@@ -1,0 +1,128 @@
+﻿  Checker.cpp
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(3,94): warning C4273: Checker::Checker: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(18,2): message : см. предыдущее определение "{ctor}"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(9,1): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(16,38): warning C4273: Checker::Checker: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(19,2): message : см. предыдущее определение "{ctor}"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(27,1): warning C4273: Checker::IsQueen: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(20,22): message : см. предыдущее определение "IsQueen"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(32,1): warning C4273: Checker::GetType: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(22,23): message : см. предыдущее определение "GetType"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(37,1): warning C4273: Checker::~Checker: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(32,3): message : см. предыдущее определение "{dtor}"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(44,1): warning C4273: Checker::Checker: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(34,2): message : см. предыдущее определение "{ctor}"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(47,33): warning C4273: Checker::IsWictim: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(21,14): message : см. предыдущее определение "IsWictim"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(48,53): warning C4273: Checker::SetType: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(23,7): message : см. предыдущее определение "SetType"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(49,27): warning C4273: Checker::IO_Wictim: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(24,7): message : см. предыдущее определение "IO_Wictim"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(50,34): warning C4273: Checker::GetButton: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(25,14): message : см. предыдущее определение "GetButton"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(51,34): warning C4273: Checker::GetBMP: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(26,17): message : см. предыдущее определение "GetBMP"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(54,1): warning C4273: Checker::SearchingForWictims: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(27,15): message : см. предыдущее определение "SearchingForWictims"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(71,1): warning C4273: Checker::CheckIsWictim: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(28,14): message : см. предыдущее определение "CheckIsWictim"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(86,1): warning C4273: Checker::GetWictimPos: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.h(30,26): message : см. предыдущее определение "GetWictimPos"
+  dllmain.cpp
+  Game.cpp
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(15,1): warning C4273: Game::PrintBaseInfo: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.h(29,27): message : см. предыдущее определение "PrintBaseInfo"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(16,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(20,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(61,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(64,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(78,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(90,1): warning C4273: Game::Start: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.h(31,27): message : см. предыдущее определение "Start"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(118,1): warning C4273: Game::DrawFigures: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.h(32,27): message : см. предыдущее определение "DrawFigures"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(274,1): warning C4273: Game::MakeTurn: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.h(28,27): message : см. предыдущее определение "MakeTurn"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(314,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(318,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(339,1): warning C4273: Game::ClearMemory: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.h(35,27): message : см. предыдущее определение "ClearMemory"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(348,50): warning C4273: Game::GetButton: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.h(30,34): message : см. предыдущее определение "GetButton"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(349,46): warning C4273: Game::GetActivePlayer: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.h(33,43): message : см. предыдущее определение "GetActivePlayer"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(350,65): warning C4273: Game::GetColourFigure: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.h(34,43): message : см. предыдущее определение "GetColourFigure"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(193,48): warning C4267: инициализация: преобразование из "size_t" в "_Ty1"; возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(149): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<size_t,size_t,0>(_Other1 &&,_Other2 &&) noexcept"
+          with
+          [
+              _Other1=size_t,
+              _Other2=size_t
+          ]
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(149): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<size_t,size_t,0>(_Other1 &&,_Other2 &&) noexcept"
+          with
+          [
+              _Other1=size_t,
+              _Other2=size_t
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(193,48): warning C4267: инициализация: преобразование из "size_t" в "_Ty2"; возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+  Queen.cpp
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.cpp(3,16): warning C4273: Queen::Queen: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.h(13,2): message : см. предыдущее определение "{ctor}"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.cpp(5,34): warning C4273: Queen::Queen: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.h(7,2): message : см. предыдущее определение "{ctor}"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.cpp(11,1): warning C4273: Queen::IsQueen: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.h(8,14): message : см. предыдущее определение "IsQueen"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.cpp(16,1): warning C4273: Queen::SearchingForWictims: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.h(9,7): message : см. предыдущее определение "SearchingForWictims"
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.cpp(48,1): warning C4273: Queen::GetWictimPos: несовместимое связывание dll
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.h(10,18): message : см. предыдущее определение "GetWictimPos"
+  Создание кода...
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.cpp(12): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Queen.cpp(57): warning C4172: возвращение адреса локальной или временной переменной : WictimPos
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(186): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(217): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(219): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(322): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(225): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(323): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(230): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(324): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(242): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(252): warning C4172: возвращение адреса локальной или временной переменной : StateTurn
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(259): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(262): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Game.cpp(264): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(28): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(87): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(80): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\zenne\source\repos\Новая папка\Checkers\CheckersDLL\Checker.cpp(82): warning C4172: возвращение адреса локальной или временной переменной
+     Создается библиотека C:\Users\zenne\source\repos\Новая папка\Checkers\x64\Debug\CheckersDLL.lib и объект C:\Users\zenne\source\repos\Новая папка\Checkers\x64\Debug\CheckersDLL.exp
+LINK : warning LNK4217: Символ "??0Checker@@QEAA@AEBW4Type@0@PEAUHWND__@@PEAUHINSTANCE__@@HHH@Z (public: __cdecl Checker::Checker(enum Checker::Type const &,struct HWND__ *,struct HINSTANCE__ *,int,int,int))", определенный в "Checker.obj", импортирован "Game.obj" в функции ""public: static void __cdecl Game::Start(struct HWND__ *,struct HINSTANCE__ *)" (?Start@Game@@SAXPEAUHWND__@@PEAUHINSTANCE__@@@Z)".
+LINK : warning LNK4217: Символ "??0Checker@@QEAA@AEBV0@@Z (public: __cdecl Checker::Checker(class Checker const &))", определенный в "Checker.obj", импортирован "Game.obj" в функции ""private: static void __cdecl Game::Swap(struct std::pair<struct std::pair<int,int>,struct std::pair<int,int> > const &)" (?Swap@Game@@CAXAEBU?$pair@U?$pair@HH@std@@U12@@std@@@Z)".
+LINK : warning LNK4286: Символ "??0Checker@@QEAA@AEBV0@@Z (public: __cdecl Checker::Checker(class Checker const &))", определенный в "Checker.obj", импортирован "Queen.obj".
+LINK : warning LNK4217: Символ "?IsWictim@Checker@@QEAAAEB_NXZ (public: bool const & __cdecl Checker::IsWictim(void))", определенный в "Checker.obj", импортирован "Game.obj" в функции ""public: bool __cdecl <lambda_594b4666c7fdf6b568ae5814c261bafd>::operator()(struct std::pair<struct std::pair<int,int>,class Checker *>)const " (??R<lambda_594b4666c7fdf6b568ae5814c261bafd>@@QEBA_NU?$pair@U?$pair@HH@std@@PEAVChecker@@@std@@@Z)".
+LINK : warning LNK4286: Символ "?IsWictim@Checker@@QEAAAEB_NXZ (public: bool const & __cdecl Checker::IsWictim(void))", определенный в "Checker.obj", импортирован "Queen.obj".
+LINK : warning LNK4217: Символ "?GetType@Checker@@QEBAAEBW4Type@1@XZ (public: enum Checker::Type const & __cdecl Checker::GetType(void)const )", определенный в "Checker.obj", импортирован "Game.obj" в функции ""public: bool __cdecl <lambda_1539709ae2b456f3b777766625918135>::operator()(struct std::pair<struct std::pair<int,int>,class Checker *>)const " (??R<lambda_1539709ae2b456f3b777766625918135>@@QEBA_NU?$pair@U?$pair@HH@std@@PEAVChecker@@@std@@@Z)".
+LINK : warning LNK4286: Символ "?GetType@Checker@@QEBAAEBW4Type@1@XZ (public: enum Checker::Type const & __cdecl Checker::GetType(void)const )", определенный в "Checker.obj", импортирован "Queen.obj".
+LINK : warning LNK4217: Символ "?SetType@Checker@@QEAAXAEBW4Type@1@@Z (public: void __cdecl Checker::SetType(enum Checker::Type const &))", определенный в "Checker.obj", импортирован "Game.obj" в функции ""private: static void __cdecl Game::ToKill(struct std::pair<int,int> const &)" (?ToKill@Game@@CAXAEBU?$pair@HH@std@@@Z)".
+LINK : warning LNK4217: Символ "?IO_Wictim@Checker@@QEAAXXZ (public: void __cdecl Checker::IO_Wictim(void))", определенный в "Checker.obj", импортирован "Game.obj" в функции ""private: static void __cdecl Game::NoWictims(void)" (?NoWictims@Game@@CAXXZ)".
+LINK : warning LNK4217: Символ "?GetButton@Checker@@QEAAAEBQEAUHWND__@@XZ (public: struct HWND__ * const & __cdecl Checker::GetButton(void))", определенный в "Checker.obj", импортирован "Game.obj" в функции ""public: static struct HWND__ * const & __cdecl Game::GetButton(int const &)" (?GetButton@Game@@SAAEBQEAUHWND__@@AEBH@Z)".
+LINK : warning LNK4217: Символ "?GetBMP@Checker@@QEAAPEB_WXZ (public: wchar_t const * __cdecl Checker::GetBMP(void))", определенный в "Checker.obj", импортирован "Game.obj" в функции ""public: static void __cdecl Game::DrawFigures(struct tagDRAWITEMSTRUCT *)" (?DrawFigures@Game@@SAXPEAUtagDRAWITEMSTRUCT@@@Z)".
+LINK : warning LNK4217: Символ "??1Checker@@QEAA@XZ (public: __cdecl Checker::~Checker(void))", определенный в "Checker.obj", импортирован "Game.obj" в функции ""public: void * __cdecl Checker::`scalar deleting destructor'(unsigned int)" (??_GChecker@@QEAAPEAXI@Z)".
+LINK : warning LNK4286: Символ "??1Checker@@QEAA@XZ (public: __cdecl Checker::~Checker(void))", определенный в "Checker.obj", импортирован "Queen.obj".
+LINK : warning LNK4217: Символ "??0Queen@@QEAA@AEBVChecker@@@Z (public: __cdecl Queen::Queen(class Checker const &))", определенный в "Queen.obj", импортирован "Game.obj" в функции ""private: static void __cdecl Game::CheckIsQueen(struct std::pair<int,int> const &)" (?CheckIsQueen@Game@@CAXAEBU?$pair@HH@std@@@Z)".
+LINK : warning LNK4217: Символ "?CheckIsWictim@Checker@@QEAAAEB_NAEBU?$pair@HH@std@@0PEAV?$map@U?$pair@HH@std@@PEAVChecker@@U?$less@U?$pair@HH@std@@@2@V?$allocator@U?$pair@$$CBU?$pair@HH@std@@PEAVChecker@@@std@@@2@@3@AEBW4Type@1@@Z (public: bool const & __cdecl Checker::CheckIsWictim(struct std::pair<int,int> const &,struct std::pair<int,int> const &,class std::map<struct std::pair<int,int>,class Checker *,struct std::less<struct std::pair<int,int> >,class std::allocator<struct std::pair<struct std::pair<int,int> const ,class Checker *> > > *,enum Checker::Type const &))", определенный в "Checker.obj", импортирован "Queen.obj" в функции ""public: virtual void __cdecl Queen::SearchingForWictims(class std::map<struct std::pair<int,int>,class Checker *,struct std::less<struct std::pair<int,int> >,class std::allocator<struct std::pair<struct std::pair<int,int> const ,class Checker *> > > *,struct std::pair<int,int> const &,enum Checker::Type const &)" (?SearchingForWictims@Queen@@UEAAXPEAV?$map@U?$pair@HH@std@@PEAVChecker@@U?$less@U?$pair@HH@std@@@2@V?$allocator@U?$pair@$$CBU?$pair@HH@std@@PEAVChecker@@@std@@@2@@std@@AEBU?$pair@HH@3@AEBW4Type@Checker@@@Z)".
+LINK : warning LNK4217: Символ "??0Checker@@IEAA@XZ (protected: __cdecl Checker::Checker(void))", определенный в "Checker.obj", импортирован "Queen.obj" в функции ""private: __cdecl Queen::Queen(void)" (??0Queen@@AEAA@XZ)".
+Checker.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) const Checker::`vftable'" (__imp_??_7Checker@@6B@) в функции "protected: __cdecl Checker::Checker(void)" (??0Checker@@IEAA@XZ).
+Queen.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) const Queen::`vftable'" (__imp_??_7Queen@@6B@) в функции "private: __cdecl Queen::Queen(void)" (??0Queen@@AEAA@XZ).
+C:\Users\zenne\source\repos\Новая папка\Checkers\x64\Debug\CheckersDLL.dll : fatal error LNK1120: неразрешенных внешних элементов: 2
